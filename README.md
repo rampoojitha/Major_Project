@@ -1,5 +1,5 @@
 # Major_Project
-Fake Job Post Detection Using NLP
+Fake Job Post Prediction Using NLP
 
 
  
